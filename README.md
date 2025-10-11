@@ -65,7 +65,7 @@
 ### 🏅 Certifications
 - **Software Testing – QSpiders (2022)**  
   _Covered Core Java, Manual Testing, Selenium, and SQL._
-<a href="[https://github.com/yogesh-d98](https://drive.google.com/file/d/1GW9S3UaRDWrIcVK-PSqxdw5Q1WXDH5F5/view)"></a>
+<a href="https://github.com/yogesh-d98](https://drive.google.com/file/d/1GW9S3UaRDWrIcVK-PSqxdw5Q1WXDH5F5/view)">click here</a>
 ---
 
 ### 🎓 Education
