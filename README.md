@@ -56,16 +56,16 @@
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| 🛍️ **TeeRex Store** | React.js e-commerce site with product filtering & cart management | React, CSS |
-| 📄 **PDF Merge System** | Node.js API for merging PDFs from SharePoint | Node, Graph API |
-| ☁️ **Remo File Manager** | Azure Blob integrated file storage with SAS URLs | React, Node, Azure |
+| 🛍️ **TODO APP** |  A simple To-Do List app | HTML5, CSS3 , JavaScript |
+| 📄 **YOGIGO** | React.js e-commerce site with product filtering & cart management | Mongo DB , Express js , React js , Node js |
+
 
 ---
 
 ### 🏅 Certifications
 - **Software Testing – QSpiders (2022)**  
   _Covered Core Java, Manual Testing, Selenium, and SQL._
-
+<a href="[https://github.com/yogesh-d98](https://drive.google.com/file/d/1GW9S3UaRDWrIcVK-PSqxdw5Q1WXDH5F5/view)"></a>
 ---
 
 ### 🎓 Education
