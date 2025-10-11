@@ -39,13 +39,15 @@
 
 ### 💼 Professional Experience
 
-#### 🧑‍💻 Junior Software Developer — *Technomax Systems, Coimbatore (Sept 2023 – Present)*  
+#### 🧑‍💻 Junior Software Developer — *Technomax Systems, Coimbatore (Sept 2023 – June 2025)*  
 
 - ⚙️ Developed **secure Node.js APIs** for SharePoint and Azure integrations.  
 - 📂 Integrated **Azure Blob Storage** for file uploads and resumable large file handling.  
 - 🔐 Implemented **Azure AD Authentication** in React using MSAL.js.  
 - 🧾 Created a **PDF Merging System** using Microsoft Graph and OAuth 2.0 tokens.  
 - 👨‍💻 Collaborated with SPFx team on **Employee Cards App** for real-time Employee Master sync.
+
+#### 🧑‍💻 Intern Software Engineer — *Technomax Systems, Coimbatore (April 2023 – August 2023)*
 
 #### 💼 Assistant Branch Manager — *Shriram Finance Co Ltd (Aug 2019 – Dec 2021)*  
 - Led branch operations, managed a mid-sized team, and collaborated with IT for digital process optimization.
