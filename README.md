@@ -58,8 +58,10 @@
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| 🛍️ **TODO APP** |  A simple To-Do List app | HTML5, CSS3 , JavaScript |
-| 📄 **YOGIGO** | React.js e-commerce site with product filtering & cart management | Mongo DB , Express js , React js , Node js |
+| 🛍️ **TODO APP** | A simple To-Do List app | HTML5, CSS3, JavaScript |
+| 📄 **YOGIGO** | React.js e-commerce site with product filtering & cart management | MongoDB, Express.js, React.js, Node.js |
+| 🎓 **React Course Listing Project** | A React app that displays a list of courses with features like buy, discount, delete, and dynamic course fetching | React.js, JSX, Vite, JSON Server |
+
 
 
 ---
