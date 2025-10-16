@@ -54,14 +54,16 @@
 
 ---
 
-### 🚀 Projects
+### 🚀 Projects (Learning Progression)
 
 | Project | Description | Tech | Live Demo |
 |----------|--------------|------|-----------|
+| 🌐 **HTML Portfolio** | Personal portfolio webpage built entirely using pure HTML5 showcasing profile, skills, and projects | HTML5, basic inline CSS, SociableKit embeds | [Live Demo](https://yogesh-d98.github.io/HTML-My-Portfolio/) |
 | 🛍️ **TODO APP** | A simple To-Do List app | HTML5, CSS3, JavaScript | - |
-| 📄 **YOGIGO** | React.js e-commerce site with product filtering & cart management | MongoDB, Express.js, React.js, Node.js | - |
 | 🎓 **React Course Listing Project** | A React app that displays a list of courses with features like buy, discount, delete, and dynamic course fetching | React.js, JSX, Vite, JSON Server | [Live Demo](https://react-course-listing-project.vercel.app/) |
 | ⚛️ **React Interview Prep Project** | Sample React components covering hooks, context, routing, component lifecycle, and mock API data | React.js, React Router, useState, useEffect, useContext, useRef, Vite | [Live Demo](https://react-interview-prep-liard.vercel.app/) |
+| 📄 **YOGIGO** | React.js e-commerce site with product filtering & cart management — final full-stack MERN project | MongoDB, Express.js, React.js, Node.js | - |
+
 
 
 
