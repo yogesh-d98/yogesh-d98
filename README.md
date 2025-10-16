@@ -56,11 +56,12 @@
 
 ### 🚀 Projects
 
-| Project | Description | Tech |
-|----------|--------------|------|
-| 🛍️ **TODO APP** | A simple To-Do List app | HTML5, CSS3, JavaScript |
-| 📄 **YOGIGO** | React.js e-commerce site with product filtering & cart management | MongoDB, Express.js, React.js, Node.js |
-| 🎓 **React Course Listing Project** | A React app that displays a list of courses with features like buy, discount, delete, and dynamic course fetching | React.js, JSX, Vite, JSON Server |
+| Project | Description | Tech | Live Demo |
+|----------|--------------|------|-----------|
+| 🛍️ **TODO APP** | A simple To-Do List app | HTML5, CSS3, JavaScript | - |
+| 📄 **YOGIGO** | React.js e-commerce site with product filtering & cart management | MongoDB, Express.js, React.js, Node.js | - |
+| 🎓 **React Course Listing Project** | A React app that displays a list of courses with features like buy, discount, delete, and dynamic course fetching | React.js, JSX, Vite, JSON Server | [Live Demo](https://react-course-listing-project.vercel.app/) |
+| ⚛️ **React Interview Prep Project** | Sample React components covering hooks, context, routing, component lifecycle, and mock API data | React.js, React Router, useState, useEffect, useContext, useRef, Vite | [Live Demo](https://react-interview-prep-liard.vercel.app/) |
 
 
 
