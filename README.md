@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js" />
   <img src="https://img.shields.io/badge/Database-MongoDB-darkgreen?style=for-the-badge&logo=mongodb" />
   <img src="https://img.shields.io/badge/Cloud-Azure-blue?style=for-the-badge&logo=microsoft-azure" />
-  <img src="https://img.shields.io/badge/API-Microsoft%20Graph-lightblue?style=for-the-badge&logo=microsoft" />
+  <img src="https://img.shields.io/badge/API-RESTAPI&Microsoft%20Graph-lightblue?style=for-the-badge&logo=microsoft" />
   <img src="https://img.shields.io/badge/Tools-Postman-orange?style=for-the-badge&logo=postman" />
   <img src="https://img.shields.io/badge/Version%20Control-Git-black?style=for-the-badge&logo=git" />
 </p>
